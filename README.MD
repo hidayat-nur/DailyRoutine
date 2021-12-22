@@ -23,7 +23,7 @@ Time|                 Todo|                                                Total
 16:00 - 17:00|        Work and break 10minutes|                             50
 17:00 - 17:50|        Flexible time (bathe, play with kids, etc.)|
 17:50 - 18:30|        Prepare & mahrib prayer|
-18:30 - 19:10|        Flexible time|
+18:30 - 19:10|        Flexible time (reciting Qur'an, .etc)|
 19:10 - 19:35|        Prepare & isya prayer|
 19:35 - 19:45|        Prepare plans for tomorrow
 19:45 - 21:15|        Fleible time|
