@@ -10,16 +10,16 @@ Time|                 Todo|                                                Total
 06:00 - 07:00|        Bathe, eat, dhuha prayer|
 07:00 - 07:30|        Learn|
 07:30 - 08:00|        Go to office & flexible time|
-08:00 - 09:00|        <p style='color:red'>Work and break 10minutes|</p>    50
-09:00 - 10:00|        <p style='color:red'>Work and break 10minutes|</p>    50
-10:00 - 11:00|        <p style='color:red'>Work and break 10minutes|</p>    50
-11:00 - 11:40|        <p style='color:red'>Work and break 5minutes|</p>     35
+08:00 - 09:00|        **Work and break 10minutes|**    50
+09:00 - 10:00|        **Work and break 10minutes|**    50
+10:00 - 11:00|        **Work and break 10minutes|**    50
+11:00 - 11:40|        **Work and break 5minutes|**     35
 11:40 - 13:00|        Jum'at prayer & Break time|
-13:00 - 14:00|        <p style='color:red'>Work and break 10minutes|</p>    55
-14:00 - 15:05|        <p style='color:red'>Work and break 10minutes|</p>    55
+13:00 - 14:00|        **Work and break 10minutes|**    55
+14:00 - 15:05|        **Work and break 10minutes|**    55
 15:05 - 15:20|        Ashar prayer|
-15:00 - 16:00|        <p style='color:red'>Work and break 10minutes|</p>    50
-16:00 - 17:00|        <p style='color:red'>Work and break 10minutes|</p>    50
+15:00 - 16:00|        **Work and break 10minutes|**    50
+16:00 - 17:00|        **Work and break 10minutes|**    50
 17:00 - 17:50|        Flexible time (bathe, play with kids, etc.)|
 17:50 - 18:30|        Prepare & mahrib prayer|
 18:30 - 19:10|        Flexible time (reciting Qur'an, .etc)|
